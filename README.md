@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Avishs
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning how to teach math and bio using coding
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me asha209@gmail.com
+- 👀 I’m interested in learning to use ML techniques on problems related to transportation
+- 🌱 I’m currently learning probabilistic machine learning
+- 💞️ I’m looking to collaborate on anything interesting!
 
 <!---
 Avishs/Avishs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
